@@ -35,13 +35,21 @@ python -m venv .venv
    # python main.py
 # 🕹️ Controls & Mechanics
 Gesture,Action
-Swipe Up,Move snake up
-Swipe Down,Move snake down
-Swipe Left,Move snake left
-Swipe Right,Move snake right
-Pinch (thumb + index),Speed boost (faster movement)
+
+Swipe Up, Move snake up
+
+Swipe Down, Move snake down
+
+Swipe Left, Move snake left
+
+Swipe Right, Move snake right
+
+Pinch (thumb + index), Speed boost (faster movement)
 # Game Control
-Key/Action,Function
-ESC (Game Window),Quit game
-Q (Gesture Window),Quit all windows
-Show UP gesture (Game Over Screen),Restart game
+Key/Action, Function
+
+ESC (Game Window), Quit game
+
+Q (Gesture Window), Quit all windows
+
+Show UP gesture (Game Over Screen), Restart game
